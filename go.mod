@@ -10,7 +10,7 @@ require (
 	github.com/jmoiron/sqlx v1.3.4
 	github.com/json-iterator/go v1.1.12
 	github.com/lib/pq v1.10.2
-	github.com/sanity-io/litter v1.5.1
+	github.com/sanity-io/litter v1.5.6
 	github.com/stretchr/testify v1.7.0
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/takama/daemon v1.0.0
